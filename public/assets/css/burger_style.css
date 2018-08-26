@@ -1,0 +1,23 @@
+.container{
+    position: center;
+}
+
+body{
+    background-color: rgb(129, 85, 28);
+}
+
+.pic{
+    width: 350px;
+    height: auto;
+
+ }
+
+ @media screen and (max-width: 500px) {
+    .container {
+      float: none;
+      display: block;
+      text-align: left;
+   }
+
+  }
+
