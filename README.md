@@ -7,3 +7,5 @@
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
 * This app will store every burger in a database, whether devoured or not.
+
+https://pure-oasis-67452.herokuapp.com/
